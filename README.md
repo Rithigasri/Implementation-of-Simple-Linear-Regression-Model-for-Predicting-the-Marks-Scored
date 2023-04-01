@@ -80,23 +80,23 @@ print("RMSE = ",rmse)
 ```
 
 ## OUTPUT:
-* df.head():  
+* df.head():    
 ![image](https://user-images.githubusercontent.com/93427256/229011108-3537a1cb-f91d-49a9-b433-0d28f4857d07.png)
-* df.tail():
+* df.tail():  
 ![image](https://user-images.githubusercontent.com/93427256/229011227-7495679f-df5b-4d34-94ae-7b190508d238.png)
-* Array Value of X:    
+* Array Value of X:      
 ![image](https://user-images.githubusercontent.com/93427256/229011551-4729446c-b05d-45ea-8a01-f311ea3645ff.png)  
-* Array value of Y:
+* Array value of Y:  
 ![image](https://user-images.githubusercontent.com/93427256/229011607-c91a9f24-8f7b-4764-b9e3-b546fb8bc295.png)
-* Values of Y Prediction:    
+* Values of Y Prediction:      
 ![image](https://user-images.githubusercontent.com/93427256/229011701-9f788ade-f430-4f5b-a2f0-747b44843fda.png)
-* Array values of Y test:  
+* Array values of Y test:    
 ![image](https://user-images.githubusercontent.com/93427256/229011934-8a9f4052-33fd-47f3-9cf4-15a4c65f34ba.png)
-* Training Set Graph:  
+* Training Set Graph:    
 ![image](https://user-images.githubusercontent.com/93427256/229012045-6bb0b9a2-32e1-44df-8314-2e8d8528676b.png)
-* Test Set Graph:    
+* Test Set Graph:      
 ![image](https://user-images.githubusercontent.com/93427256/229012148-ba27f12b-36d4-4c7b-8742-c2100b0cc6c7.png)
-* VAlues of MSE,MAE and RMSE:  
+* Values of MSE,MAE and RMSE:    
 ![image](https://user-images.githubusercontent.com/93427256/229012231-90ffefdb-f0b2-40a2-a8fd-3afd55f99c18.png)
 
 ## RESULT:
