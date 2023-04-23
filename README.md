@@ -80,8 +80,8 @@ print("RMSE = ",rmse)
 ```
 
 ## OUTPUT:
-* df.head():    
-![image](https://user-images.githubusercontent.com/93427256/229011108-3537a1cb-f91d-49a9-b433-0d28f4857d07.png)
+* df.head():      
+![image](https://user-images.githubusercontent.com/93427256/233822070-26670bce-1fe4-4bd6-9cac-0fc44e415baa.png)
 * df.tail():  
 ![image](https://user-images.githubusercontent.com/93427256/229011227-7495679f-df5b-4d34-94ae-7b190508d238.png)
 * Array Value of X:      
